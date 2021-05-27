@@ -26,7 +26,17 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 
 ## Diagrama de bloques
 
+El esquema general es el siguiente:
+
 ![Diagrama de bloques](anexos/diagrama_ise.png)
+
+A continuacion se detalla un esquema por cada componente conectado:
+
+![Diagrama de bloques componentes](anexos/diagrama_conexiones.png)
+
+
+> no se muestra la conexion usb al computador.
+
 
 ## Video de demostración
 
