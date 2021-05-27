@@ -19,7 +19,7 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 - 1 (un) sensor DHT22
 - 1 (un) buzzer
 - 1 (un) led
-- 1 (una) fotocelula
+- 1 (una) fotocélula
 - 1 (un) ventilador de PC de 12v
 - 1 (un) mosfet lrzl44n
 - 2 (dos) resistencias (una para DHT22 y otra para fotocelula) 
