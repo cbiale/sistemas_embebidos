@@ -32,6 +32,10 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 
 [Enlace a video](https://youtu.be/RvUnlnfcPi0)
 
+## Propuesta modificada
+
+La propuesta modificada Se puede acceder a la propuesta modificada en el siguiente [enlace](anexos/ISE - propuesta modificada.pdf). 
+
 ## Licencia
 
 MIT
