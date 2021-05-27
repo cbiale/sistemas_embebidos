@@ -26,7 +26,7 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 
 ## Diagrama de bloques
 
-...
+![Diagrama de bloques](anexos/diagrama_ise.png)
 
 ## Video de demostración
 
