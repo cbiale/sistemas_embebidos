@@ -1,2 +1,6 @@
-# sistemas_embebidos
-Proyecto desarrollado como trabajo final de la materia Introducción a los Sistemas Embebidos correspondiente a la Especialización en Internet de las Cosas dictada en la Facultad de Ingeniería de la Universidad de Buenos Aires. 
+# Proyecto final integrador
+
+
+## Bibliotecas usadas
+
+- DHT22: https://os.mbed.com/users/amithy/code/DHT22/
