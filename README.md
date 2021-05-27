@@ -34,7 +34,7 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 
 ## Propuesta modificada
 
-La propuesta modificada Se puede acceder a la propuesta modificada en el siguiente [enlace]("anexos/ISE - propuesta modificada.pdf"). 
+La propuesta modificada Se puede acceder a la propuesta modificada en el siguiente [enlace](anexos/ISE%20-%20propuesta%20modificada.pdf"). 
 
 ## Licencia
 
