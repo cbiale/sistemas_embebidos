@@ -22,7 +22,7 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 - 1 (una) fotocélula
 - 1 (un) ventilador de PC de 12v
 - 1 (un) relay *(mosfet dejo de funcionar, en si no comprendo porque funcionaba si los pines dan un voltage de 3v y el mosfet por lo que he leido no "satura" con ese voltaje)*
-- 2 (dos) resistencias (una para DHT22 y otra para fotocelula) 
+- 2 (dos) resistencias (una para DHT22 y otra para fotocélula) 
 
 ## Diagrama de bloques
 
@@ -34,7 +34,7 @@ El objetivo es simular el comportamiento de un invernadero mediante un esquema c
 
 ## Propuesta modificada
 
-La propuesta modificada Se puede acceder a la propuesta modificada en el siguiente [enlace](anexos/ISE - propuesta modificada.pdf). 
+La propuesta modificada Se puede acceder a la propuesta modificada en el siguiente [enlace]("anexos/ISE - propuesta modificada.pdf"). 
 
 ## Licencia
 
